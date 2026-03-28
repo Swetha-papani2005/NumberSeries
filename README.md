@@ -32,7 +32,9 @@ A Java-based interactive puzzle game that challenges users to solve number serie
 
 ## 📷 Screenshot
 
-![Game Screenshot](screenshot.png)
+![Screenshot 1](number1.jpeg)
+
+![Screenshot 2](number2.jpeg)
 
 ---
 
