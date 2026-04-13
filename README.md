@@ -38,8 +38,59 @@ A Java-based interactive puzzle game that challenges users to solve number serie
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run 
 
 1. Compile the program:
 ```bash
 javac Number.java
+
+---
+# 🟫🟫🟫 🍽️ HOTEL MANAGEMENT SYSTEM 🍽️ 🟫🟫🟫
+
+## ███████████████████████████████████████████
+## 🔥 JAVA CONSOLE APPLICATION 🔥
+## ███████████████████████████████████████████
+
+---
+
+### 🧾 DESCRIPTION
+A simple Java-based console application that simulates a hotel ordering system where users can select food items, place orders, and view the total bill.
+
+---
+
+## 🚀 FEATURES
+
+- 📋 Menu-driven interface  
+- 🍛 Multiple categories:
+  - Fried Rice  
+  - Fried Noodles  
+  - Biryani  
+  - Juices  
+- 🧾 Order summary with total bill calculation  
+- ✅ Order confirmation system  
+- ❌ Order cancellation option  
+- 🔄 User-friendly console interaction  
+
+---
+
+## 🛠️ TECHNOLOGIES USED
+
+- Java  
+- OOP Concepts  
+- Scanner Class  
+
+---
+
+## 📷 SCREENSHOTS
+
+![Hotel Output](hotel.png)
+
+
+---
+
+## ▶️ HOW TO RUN
+
+```bash
+javac Hotel.java
+java hotelmanagement.Hotel
+
