@@ -83,7 +83,7 @@ A simple Java-based console application that simulates a hotel ordering system w
 
 ## 📷 SCREENSHOTS
 
-![Hotel Output](hotel.png)
+![Hotel Output](hotel.jpeg)
 
 
 ---
